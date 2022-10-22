@@ -18,9 +18,9 @@ global.APIKeys = {
 // Other
 global.owner = ['6287841959988']
 global.ownernomer = "6287841959988"
-global.premium = ['6287841959988','6287841959988']
-global.packname = 'HANZ-OFC '
-global.author = 'HANZ-BOT'
+global.premium = ['6285790542593','6287841959988']
+global.packname = 'DAMAR-BOT'
+global.author = 'DAMAR-BOT'
 global.sessionName = 'zenss'
 global.prefa = ['','!','.','#','&']
 global.sp = ''
