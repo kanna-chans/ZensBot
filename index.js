@@ -208,7 +208,7 @@ async function startNaze() {
 	
     naze.public = true
 	 naze.autosw = true
-	 naze.sendsw = '62895604670507@s.whatsapp.net'
+	 naze.sendsw = '6287841959988@s.whatsapp.net'
 	 
     naze.serializeM = (m) => smsg(naze, m, store)
 
